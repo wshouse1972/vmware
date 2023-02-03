@@ -1,0 +1,2 @@
+name,CPU,Mem,Disk,Network,vmHost
+LA-DTEDL1,8,16,200,dev-network-152,la-hxdev2.linquest.comLA-DTEDL2,8,16,200,dev-network-152,la-hxdev3.linquest.com
